@@ -2,7 +2,6 @@
 
 function setup() {
   createCanvas(windowWidth, windowHeight);
-  color = 250;
 
   applePos = {
     x: 100,
